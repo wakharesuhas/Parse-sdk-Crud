@@ -24,7 +24,7 @@
     "core-js": "^2.5.4",
     "ngx-bootstrap": "^5.2.0",
     "ngx-bootstrap-modal": "^2.0.1",
-    "parse": "^2.8.0",
+    "parse": "^2.10.0",
     "rxjs": "~6.3.3",
     "sweetalert": "^2.1.2",
     "sweetalert2": "^8.18.6",
